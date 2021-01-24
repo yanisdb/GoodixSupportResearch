@@ -1,0 +1,1916 @@
+No.     Time           Source                Destination           Protocol Length Info
+      6 34.243843      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 6: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 34.244517      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 7: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00700a7ae0400010101f500000000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 34.244759      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 8: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 34.245233      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 9: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300ae0148
+
+No.     Time           Source                Destination           Protocol Length Info
+     10 34.245833      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 10: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 34.246236      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 11: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf321c008c0135012e0135012f019a9a8f8f9a9a90909a9a929295958f8f00be00…
+
+No.     Time           Source                Destination           Protocol Length Info
+     12 34.246435      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 12: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 34.247118      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 13: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003201c4
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 34.247559      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 14: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 34.247657      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 15: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf321c008c0135012e0135012f019a9a8f8f9a9a90909a9a929295958f8f01bd00…
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 34.247773      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 16: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 34.273053      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 17: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003201c4
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 34.273696      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 18: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 36.567017      2.1.3                 host                  USB      55     URB_BULK in
+
+Frame 19: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01800b83215000200ff000e0100011101fd000f0101010901f8002f
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 36.567651      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 20: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 36.567777      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 21: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf361c000d0135012e0135012f0196968b8b98988f8f9999919194948d8d005900…
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 36.567932      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 22: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 36.568475      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 23: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003601c0
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 36.569031      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 24: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 36.569425      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 25: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf361c000d0135012e0135012f0196968b8b98988f8f9999919194948d8d015800…
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 36.569647      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 26: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 36.594324      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 27: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003601c0
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 36.594892      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 28: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 36.604011      2.1.3                 host                  USB      55     URB_BULK in
+
+Frame 29: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01800b83615000200ff008a008c0090007f008c008200870075002f
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 36.604560      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 30: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 36.604906      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 31: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020503ee0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+     32 36.605060      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 32: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 36.605460      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 33: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+     34 36.605991      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 34: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 36.606144      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 35: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b004103b900b200b900b30064000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+     36 36.606278      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 36: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 36.606743      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 37: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+     38 36.607044      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 38: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 36.662209      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 39: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e401a798c545cc0fadeb5cc5fef6c08498cb93f…
+
+No.     Time           Source                Destination           Protocol Length Info
+     40 36.663084      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 40: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     41 36.663571      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 41: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+     42 36.663743      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 42: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     43 36.664179      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 43: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+     44 36.664542      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 44: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 36.664759      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 45: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020503ee0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+     46 36.664896      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 46: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 36.665309      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 47: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+     48 36.665704      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 48: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     49 36.665840      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 49: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b004103b900b200b900b30064000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 36.665955      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 50: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     51 36.666427      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 51: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+     52 36.666771      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 52: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 36.721875      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 53: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e404aa98f537e2ccc808ea8b633de03d7190c4b…
+
+No.     Time           Source                Destination           Protocol Length Info
+     54 36.722585      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 54: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 36.723222      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 55: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+     56 36.723358      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 56: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     57 36.723791      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 57: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 36.724082      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 58: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 36.734466      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 59: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f018f8f8888909086868f8f88888c8c8484005800…
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 36.734633      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 60: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 36.735205      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 61: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+     62 36.735633      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 62: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     63 36.735849      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 63: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f018f8f8888909086868f8f88888c8c8484015700…
+
+No.     Time           Source                Destination           Protocol Length Info
+     64 36.736023      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 64: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     65 36.762011      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 65: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+     66 36.762497      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 66: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     67 36.826850      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 67: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f018f8f8888909086868f8f88888c8c8484005800…
+
+No.     Time           Source                Destination           Protocol Length Info
+     68 36.826985      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 68: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     69 36.827588      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 69: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+     70 36.827828      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 70: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     71 36.827836      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 71: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f018f8f8888909086868f8f88888c8c8484015700…
+
+No.     Time           Source                Destination           Protocol Length Info
+     72 36.827952      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 72: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     73 36.854295      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 73: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+     74 36.855066      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 74: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     75 36.978477      2.1.3                 host                  USB      55     URB_BULK in
+
+Frame 75: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01800b83415000002000034011e0133012001340123012a011d0114
+
+No.     Time           Source                Destination           Protocol Length Info
+     76 36.978997      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 76: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     77 36.979196      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 77: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a03e90000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+     78 36.979309      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 78: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     79 36.979727      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 79: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+     80 36.980081      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 80: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     81 36.980131      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 81: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b00810335012e0135012f0130000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+     82 36.980286      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 82: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     83 36.980753      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 83: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+     84 36.981080      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 84: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     85 37.036176      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 85: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e40ef71a148953cb872f4dc3118425271a76844…
+
+No.     Time           Source                Destination           Protocol Length Info
+     86 37.036870      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 86: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     87 37.036879      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 87: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+     88 37.037058      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 88: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     89 37.037426      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 89: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+     90 37.037695      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 90: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     91 37.037738      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 91: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a03e90000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+     92 37.037843      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 92: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     93 37.038295      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 93: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+     94 37.038567      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 94: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     95 37.038975      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 95: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b00810326011f01260120016c000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+     96 37.039081      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 96: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     97 37.039588      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 97: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+     98 37.039818      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 98: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+     99 37.094989      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 99: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e4072271eb0cbdba18dc74f4f2a033a5b62decb…
+
+No.     Time           Source                Destination           Protocol Length Info
+    100 37.095783      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 100: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    101 37.095923      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 101: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    102 37.096061      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 102: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    103 37.096472      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 103: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    104 37.096707      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 104: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    105 37.097179      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 105: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf321c008c0135012e0135012f019a9a8f8f999990909a9a919195958e8e00c400…
+
+No.     Time           Source                Destination           Protocol Length Info
+    106 37.097312      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 106: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    107 37.097857      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 107: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003201c4
+
+No.     Time           Source                Destination           Protocol Length Info
+    108 37.098166      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 108: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    109 37.098340      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 109: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf321c008c0135012e0135012f019a9a8f8f999990909a9a919195958e8e01c300…
+
+No.     Time           Source                Destination           Protocol Length Info
+    110 37.098455      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 110: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    111 37.123716      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 111: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003201c4
+
+No.     Time           Source                Destination           Protocol Length Info
+    112 37.124241      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 112: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    113 37.865044      2.1.3                 host                  USB      55     URB_BULK in
+
+Frame 113: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01800b83215000200ff001001fa0016010401100101010901fb0023
+
+No.     Time           Source                Destination           Protocol Length Info
+    114 37.865727      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 114: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    115 37.865812      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 115: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf361c000d0135012e0135012f0196968b8b98988f8f9999919194948d8d005900…
+
+No.     Time           Source                Destination           Protocol Length Info
+    116 37.865967      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 116: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    117 37.866595      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 117: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003601c0
+
+No.     Time           Source                Destination           Protocol Length Info
+    118 37.867163      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 118: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    119 37.867345      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 119: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf361c000d0135012e0135012f0196968b8b98988f8f9999919194948d8d015800…
+
+No.     Time           Source                Destination           Protocol Length Info
+    120 37.867482      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 120: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    121 37.893430      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 121: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003601c0
+
+No.     Time           Source                Destination           Protocol Length Info
+    122 37.894385      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 122: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    123 37.903039      2.1.3                 host                  USB      55     URB_BULK in
+
+Frame 123: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01800b83615000200ff008c0078009e0090008b0081008d007b0018
+
+No.     Time           Source                Destination           Protocol Length Info
+    124 37.903741      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 124: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    125 37.904062      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 125: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020503ee0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    126 37.904230      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 126: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    127 37.904627      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 127: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    128 37.905173      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 128: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    129 37.905214      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 129: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b004103b900b200b900b30064000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    130 37.905371      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 130: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    131 37.905812      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 131: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+    132 37.906224      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 132: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    133 37.961656      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 133: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e401338717bc7366b78b9ac93096443bb615fdf…
+
+No.     Time           Source                Destination           Protocol Length Info
+    134 37.963036      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 134: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    135 37.963829      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 135: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    136 37.964015      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 136: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    137 37.964411      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 137: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    138 37.964890      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 138: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    139 37.965169      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 139: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020503ee0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    140 37.965299      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 140: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    141 37.965733      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 141: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    142 37.966135      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 142: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    143 37.966422      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 143: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b004103b900b200b900b30064000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    144 37.966570      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 144: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    145 37.967011      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 145: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+    146 37.967509      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 146: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    147 38.023700      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 147: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e40b2a2e46381ee2fa9bc213a931b8877f92cbb…
+
+No.     Time           Source                Destination           Protocol Length Info
+    148 38.025194      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 148: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    149 38.025615      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 149: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    150 38.025753      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 150: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    151 38.026205      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 151: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    152 38.026632      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 152: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    153 38.037846      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 153: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f019090858593938a8a909088888c8c8585004a00…
+
+No.     Time           Source                Destination           Protocol Length Info
+    154 38.038193      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 154: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    155 38.038773      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 155: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+    156 38.039231      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 156: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    157 38.039292      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 157: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f019090858593938a8a909088888c8c8585014900…
+
+No.     Time           Source                Destination           Protocol Length Info
+    158 38.039426      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 158: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    159 38.067023      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 159: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+    160 38.067971      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 160: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    161 38.068256      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 161: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f019090858593938a8a909088888c8c8585004a00…
+
+No.     Time           Source                Destination           Protocol Length Info
+    162 38.068419      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 162: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    163 38.068979      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 163: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+    164 38.069457      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 164: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    165 38.069640      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 165: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f019090858593938a8a909088888c8c8585014900…
+
+No.     Time           Source                Destination           Protocol Length Info
+    166 38.069774      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 166: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    167 38.096283      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 167: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+    168 38.097495      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 168: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    169 38.498680      2.1.3                 host                  USB      55     URB_BULK in
+
+Frame 169: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01800b83415000002000033011d0133012001340124012a011d0115
+
+No.     Time           Source                Destination           Protocol Length Info
+    170 38.499273      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 170: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    171 38.499478      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 171: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a03e90000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    172 38.499645      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 172: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    173 38.500082      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 173: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    174 38.500408      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 174: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    175 38.500539      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 175: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b00810335012e0135012f0130000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    176 38.500721      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 176: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    177 38.501165      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 177: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+    178 38.501500      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 178: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    179 38.556425      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 179: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e407af4a489a9503e121a69d1d23072eace934e…
+
+No.     Time           Source                Destination           Protocol Length Info
+    180 38.557384      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 180: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    181 38.557748      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 181: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    182 38.557877      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 182: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    183 38.558291      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 183: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    184 38.558659      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 184: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    185 38.558907      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 185: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a03e90000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    186 38.559047      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 186: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    187 38.559455      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 187: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    188 38.559888      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 188: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    189 38.560055      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 189: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b00810326011f01260120016c000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    190 38.560186      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 190: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    191 38.560688      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 191: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+    192 38.561078      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 192: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    193 38.616005      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 193: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e403574298817b61f42dbf4b17803a1ae12b719…
+
+No.     Time           Source                Destination           Protocol Length Info
+    194 38.617019      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 194: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    195 38.617434      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 195: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    196 38.617629      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 196: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    197 38.618139      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 197: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    198 38.618499      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 198: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    199 38.618908      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 199: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf321c008c0135012e0135012f0199998e8e999990909a9a929295958e8e00c600…
+
+No.     Time           Source                Destination           Protocol Length Info
+    200 38.619192      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 200: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    201 38.619651      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 201: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003201c4
+
+No.     Time           Source                Destination           Protocol Length Info
+    202 38.620024      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 202: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    203 38.620191      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 203: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf321c008c0135012e0135012f0199998e8e999990909a9a929295958e8e01c500…
+
+No.     Time           Source                Destination           Protocol Length Info
+    204 38.620376      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 204: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    205 38.645520      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 205: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003201c4
+
+No.     Time           Source                Destination           Protocol Length Info
+    206 38.646113      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 206: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    207 39.307183      2.1.3                 host                  USB      55     URB_BULK in
+
+Frame 207: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01800b83215000200ff001001fa001101fd00130100010601f90033
+
+No.     Time           Source                Destination           Protocol Length Info
+    208 39.307647      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 208: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    209 39.307872      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 209: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf361c000d0135012e0135012f0196968b8b98988f8f9999919194948d8d005900…
+
+No.     Time           Source                Destination           Protocol Length Info
+    210 39.308017      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 210: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    211 39.308578      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 211: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003601c0
+
+No.     Time           Source                Destination           Protocol Length Info
+    212 39.308955      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 212: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    213 39.309107      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 213: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf361c000d0135012e0135012f0196968b8b98988f8f9999919194948d8d015800…
+
+No.     Time           Source                Destination           Protocol Length Info
+    214 39.309251      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 214: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    215 39.335475      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 215: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003601c0
+
+No.     Time           Source                Destination           Protocol Length Info
+    216 39.336346      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 216: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    217 39.345081      2.1.3                 host                  USB      55     URB_BULK in
+
+Frame 217: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01800b83615000200ff008f0076009000780092007d00810074004d
+
+No.     Time           Source                Destination           Protocol Length Info
+    218 39.345721      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 218: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    219 39.346109      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 219: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020503ee0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    220 39.346314      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 220: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    221 39.346698      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 221: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    222 39.347228      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 222: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    223 39.347364      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 223: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b004103b900b200b900b30064000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    224 39.347529      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 224: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    225 39.348024      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 225: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+    226 39.348437      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 226: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    227 39.403769      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 227: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e400dffedaf0f5f3b7051da1b071e5e898d5e91…
+
+No.     Time           Source                Destination           Protocol Length Info
+    228 39.404555      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 228: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    229 39.405268      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 229: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    230 39.405492      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 230: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    231 39.405886      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 231: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    232 39.406250      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 232: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    233 39.406309      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 233: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020503ee0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    234 39.406552      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 234: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    235 39.406989      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 235: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    236 39.407345      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 236: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    237 39.407450      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 237: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b004103b900b200b900b30064000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    238 39.407681      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 238: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    239 39.408135      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 239: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+    240 39.408620      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 240: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    241 39.463421      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 241: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e401a71316c629cfbd55df9c1d9a4f3ab1dbeb9…
+
+No.     Time           Source                Destination           Protocol Length Info
+    242 39.464145      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 242: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    243 39.464552      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 243: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    244 39.464676      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 244: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    245 39.465097      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 245: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    246 39.465461      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 246: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    247 39.478305      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 247: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f019090858590908686919188888b8b8484005a00…
+
+No.     Time           Source                Destination           Protocol Length Info
+    248 39.478561      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 248: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    249 39.479109      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 249: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+    250 39.479600      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 250: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    251 39.479756      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 251: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f019090858590908686919188888b8b8484015900…
+
+No.     Time           Source                Destination           Protocol Length Info
+    252 39.479985      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 252: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    253 39.505885      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 253: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+    254 39.506558      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 254: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    255 39.506747      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 255: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f019090858590908686919188888b8b8484005a00…
+
+No.     Time           Source                Destination           Protocol Length Info
+    256 39.506897      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 256: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    257 39.507682      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 257: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+    258 39.508052      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 258: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    259 39.508263      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 259: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf341c008e0135012e0135012f019090858590908686919188888b8b8484015900…
+
+No.     Time           Source                Destination           Protocol Length Info
+    260 39.508391      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 260: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    261 39.534494      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 261: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003401c2
+
+No.     Time           Source                Destination           Protocol Length Info
+    262 39.535065      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 262: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    263 39.937373      2.1.3                 host                  USB      55     URB_BULK in
+
+Frame 263: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01800b83415000002000033011d0134012101340123012a011c0115
+
+No.     Time           Source                Destination           Protocol Length Info
+    264 39.937939      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 264: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    265 39.938219      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 265: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a03e90000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    266 39.938348      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 266: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    267 39.938779      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 267: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    268 39.939155      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 268: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    269 39.939464      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 269: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b00810335012e0135012f0130000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    270 39.939644      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 270: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    271 39.940089      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 271: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+    272 39.940598      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 272: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    273 39.995450      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 273: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e403bd2aaa9cfa57bd8232f96b0691ef351df5d…
+
+No.     Time           Source                Destination           Protocol Length Info
+    274 39.996508      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 274: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    275 39.996819      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 275: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    276 39.996994      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 276: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    277 39.997378      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 277: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    278 39.997792      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 278: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    279 39.998082      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 279: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a03e90000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    280 39.998225      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 280: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    281 39.998641      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 281: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    282 39.999127      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 282: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    283 39.999287      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 283: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00e00ae200b00810326011f01260120016c000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    284 39.999474      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 284: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    285 39.999853      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 285: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003002001d6
+
+No.     Time           Source                Destination           Protocol Length Info
+    286 40.000248      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 286: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    287 40.055291      2.1.3                 host                  USB      7789   URB_BULK in
+
+Frame 287: 7789 bytes on wire (62312 bits), 7789 bytes captured (62312 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: b24e1e1e00204a1e00000000001703031e40f9e701f44bbe73ae4e3c6a5ddd75e37c1817…
+
+No.     Time           Source                Destination           Protocol Length Info
+    288 40.056194      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 288: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    289 40.056505      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 289: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00900a9800600002c020a02ea0000000000000000000000000000000000000000000000…
+
+No.     Time           Source                Destination           Protocol Length Info
+    290 40.056637      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 290: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    291 40.057055      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 291: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b00300800176
+
+No.     Time           Source                Destination           Protocol Length Info
+    292 40.057436      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 292: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    293 40.057800      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 293: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf321c008c0135012e0135012f0199998e8e9a9a90909a9a919195958e8e00c600…
+
+No.     Time           Source                Destination           Protocol Length Info
+    294 40.058033      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 294: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    295 40.058550      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 295: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003201c4
+
+No.     Time           Source                Destination           Protocol Length Info
+    296 40.059003      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 296: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    297 40.059229      host                  2.1.1                 USB      91     URB_BULK out
+
+Frame 297: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a01f00bf321c008c0135012e0135012f0199998e8e9a9a90909a9a919195958e8e01c500…
+
+No.     Time           Source                Destination           Protocol Length Info
+    298 40.059421      2.1.1                 host                  USB      27     URB_BULK out
+
+Frame 298: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
+
+No.     Time           Source                Destination           Protocol Length Info
+    299 40.084479      2.1.3                 host                  USB      37     URB_BULK in
+
+Frame 299: 37 bytes on wire (296 bits), 37 bytes captured (296 bits) on interface wireshark_extcap3896, id 0
+USB URB
+Leftover Capture Data: a00600a6b003003201c4
+
+No.     Time           Source                Destination           Protocol Length Info
+    300 40.085075      host                  2.1.3                 USB      27     URB_BULK in
+
+Frame 300: 27 bytes on wire (216 bits), 27 bytes captured (216 bits) on interface wireshark_extcap3896, id 0
+USB URB
