@@ -2,4 +2,4 @@
 
 ## Informations about the drivers
 
-![Drivers Files details](https://github.com/yanisdb/GoodixSupportResearch/Screenshts/DriverFilesDetails.png)
+![Drivers Files details](https://github.com/yanisdb/GoodixSupportResearch/blob/master/Screenshots/DriverFilesDetails.png)
